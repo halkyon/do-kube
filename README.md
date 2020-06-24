@@ -1,6 +1,6 @@
 # Example DigitalOcean Kubernetes cluster using Terraform
 
-This repository showcases using Terraform to provision a new VPC and a DigitalOcean Kubernetes cluster with nodes within.
+This repository showcases using Terraform to provision a new DigitalOcean VPC, and managed Kubernetes cluster with nodes within.
 
 ## Install and configure
 
