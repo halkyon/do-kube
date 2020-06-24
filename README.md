@@ -55,7 +55,9 @@ terraform destroy
 
 ## What now?
 
-See the [Kubernetes on DigitalOcean documentation](https://www.digitalocean.com/docs/kubernetes/) for general information on the service.
+See the [Kubernetes on DigitalOcean documentation](https://www.digitalocean.com/docs/kubernetes/) for general information on the service,
+and [Kubernetes on DigitalOcean resources](https://www.digitalocean.com/resources/kubernetes/) for guides and tutorials on building
+and operating Kubernetes.
 
 Some examples of integrations with DigitalOcean you can configure:
 
