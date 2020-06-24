@@ -20,6 +20,8 @@ export TF_VAR_do_token=YOUR_TOKEN_HERE
 
 ### Setup variables
 
+In `terraform.tfvars` set the variables you'd like.
+
 `name` and `region` are required.
 
 See [Regional Availability Matrix](https://www.digitalocean.com/docs/platform/availability-matrix/) for a list of available regions.
