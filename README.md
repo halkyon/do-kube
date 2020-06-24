@@ -4,7 +4,7 @@ This repository showcases using Terraform to provision a new DigitalOcean VPC, a
 
 ## Install and configure
 
-Setup [`doctl`](https://github.com/digitalocean/doctl) on your system, and initialise auth:
+[Setup `doctl`](https://github.com/digitalocean/doctl) on your system, and initialise auth:
 
 ```shell
 doctl auth init
